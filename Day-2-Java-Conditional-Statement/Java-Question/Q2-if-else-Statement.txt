@@ -1,9 +1,0 @@
-Q2 - if-else Statement
-
-Write a Java program to check whether a number is even or odd.
-
-Input:
-Enter a number: 7
-
-Expected Output:
-The number is odd.

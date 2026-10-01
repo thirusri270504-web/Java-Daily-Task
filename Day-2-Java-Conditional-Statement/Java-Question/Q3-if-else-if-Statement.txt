@@ -1,0 +1,15 @@
+Q3 - if-else-if Statement
+
+Write a Java program to display the grade based on the mark.
+
+Conditions:
+90 - 100  -> A Grade
+75 - 89   -> B Grade
+50 - 74   -> C Grade
+Below 50  -> Fail
+
+Input:
+Enter your mark: 85
+
+Expected Output:
+B Grade

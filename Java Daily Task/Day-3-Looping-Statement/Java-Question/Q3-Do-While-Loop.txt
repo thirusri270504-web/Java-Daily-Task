@@ -1,0 +1,11 @@
+Q3 - Do-While Loop
+
+Write a Java program to print numbers from 1 to 5 using a do-while loop.
+
+Expected Output:
+
+1
+2
+3
+4
+5

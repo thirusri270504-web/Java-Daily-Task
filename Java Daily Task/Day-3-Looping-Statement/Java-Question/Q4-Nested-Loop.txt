@@ -1,0 +1,17 @@
+Q4 - Nested Loop
+
+Write a Java program to print a square pattern of stars using nested loops.
+
+The user should enter the number of rows and columns.
+
+Input:
+
+Enter number of rows: 4
+Enter number of columns: 4
+
+Expected Output:
+
+* * * *
+* * * *
+* * * *
+* * * *

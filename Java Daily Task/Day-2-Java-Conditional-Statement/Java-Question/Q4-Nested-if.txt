@@ -1,0 +1,13 @@
+Q4 - Nested if
+
+Write a Java program to check whether a person is eligible to vote.
+
+First check whether the age is 18 or above.
+If the age is 18 or above, use another if statement to check whether the person has a voter ID.
+
+Input:
+Enter your age: 20
+Do you have voter ID? 1
+
+Expected Output:
+You are eligible to vote.

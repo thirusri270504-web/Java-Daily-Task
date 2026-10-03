@@ -1,0 +1,9 @@
+Q1 - Simple if Statement
+
+Write a Java program to check whether a number is positive.
+
+Input:
+Enter a number: 10
+
+Expected Output:
+The number is positive.

@@ -1,0 +1,11 @@
+Q10 - MOBILE RECHARGE PLAN
+--------------------------
+Get the recharge amount.
+
+Conditions:
+- Rs.599 and above -> Unlimited Data + Calls
+- Rs.399 and above -> 2GB Data per Day + Calls
+- Rs.199 and above -> 1GB Data per Day + Calls
+- Below Rs.199     -> Basic Plan
+
+Display the selected recharge plan.

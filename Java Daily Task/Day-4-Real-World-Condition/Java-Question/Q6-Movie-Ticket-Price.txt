@@ -1,0 +1,17 @@
+Q06 - MOVIE TICKET PRICE
+------------------------
+Get the customer's age and show type.
+
+Age conditions:
+- Below 12 -> Child Ticket
+- 12 - 59  -> Adult Ticket
+- 60+      -> Senior Citizen Ticket
+
+Base ticket price:
+- Child -> Rs.120
+- Adult -> Rs.200
+- Senior Citizen -> Rs.150
+
+If show type is "IMAX", add Rs.100.
+
+Display the final ticket price.

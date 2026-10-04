@@ -1,0 +1,23 @@
+Q08 - SHOPPING DISCOUNT
+-----------------------
+Get the shopping amount and customer membership type.
+
+Membership types:
+1. Premium
+2. Regular
+3. Non-Member
+
+Discount:
+Premium:
+- Amount >= Rs.5000 -> 25%
+- Otherwise -> 20%
+
+Regular:
+- Amount >= Rs.5000 -> 15%
+- Otherwise -> 10%
+
+Non-Member:
+- Amount >= Rs.5000 -> 5%
+- Otherwise -> No Discount
+
+Display discount and final amount.

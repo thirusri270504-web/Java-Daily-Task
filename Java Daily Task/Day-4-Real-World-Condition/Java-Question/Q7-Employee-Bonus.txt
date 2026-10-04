@@ -1,0 +1,14 @@
+Q07 - EMPLOYEE BONUS
+--------------------
+Get employee salary and years of experience.
+
+Conditions:
+- Experience >= 10 years -> 20% bonus
+- Experience >= 5 years  -> 15% bonus
+- Experience >= 2 years  -> 10% bonus
+- Below 2 years          -> 5% bonus
+
+Display:
+Salary
+Bonus
+Final Salary

@@ -1,0 +1,10 @@
+Q02 - E-COMMERCE DELIVERY CHARGE
+---------------------------------
+Get the order amount from the user.
+
+Conditions:
+- Amount >= Rs.2000 -> Free Delivery
+- Amount >= Rs.1000 -> Rs.50 Delivery Charge
+- Amount < Rs.1000 -> Rs.100 Delivery Charge
+
+Display the order amount, delivery charge and final amount.

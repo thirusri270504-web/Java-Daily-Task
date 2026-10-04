@@ -1,0 +1,17 @@
+Q05 - SIMPLE INTEREST
+---------------------
+Get principal amount, time in years and customer type.
+
+Customer types:
+1. Student
+2. General
+
+Interest rate:
+- Student -> 5%
+- General -> 7%
+
+Calculate:
+
+Simple Interest = (Principal × Rate × Time) / 100
+
+Display the simple interest and total amount.

@@ -1,0 +1,11 @@
+Q04 - WATER PARK TICKET
+-----------------------
+Get the age of the customer.
+
+Conditions:
+- Age below 5       -> Free
+- Age 5 - 12        -> Rs.100
+- Age 13 - 59       -> Rs.250
+- Age 60 and above  -> Rs.150
+
+Display the ticket price.

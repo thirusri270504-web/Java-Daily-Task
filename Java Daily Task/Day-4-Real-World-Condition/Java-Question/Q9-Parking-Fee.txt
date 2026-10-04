@@ -1,0 +1,10 @@
+Q09 - PARKING FEE
+-----------------
+Get the number of hours a vehicle is parked.
+
+Conditions:
+- First 2 hours -> Rs.30 per hour
+- Next 3 hours -> Rs.20 per hour
+- Above 5 hours -> Rs.10 per hour
+
+Calculate and display the total parking fee.

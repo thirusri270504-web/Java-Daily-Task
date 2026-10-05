@@ -1,0 +1,14 @@
+Q06 - COUNT OF DIGIT
+--------------------
+
+Get a number from the user at runtime.
+
+Count how many digits are present in the given number.
+
+Example:
+
+Input:
+Enter a number: 12345
+
+Output:
+Number of digits = 5

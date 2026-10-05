@@ -1,0 +1,14 @@
+Q01 - FACTORIAL
+---------------
+
+Get a number from the user at runtime.
+
+Calculate the factorial of the given number.
+
+Example:
+
+Input:
+Enter a number: 5
+
+Output:
+Factorial of 5 = 120

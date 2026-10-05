@@ -1,0 +1,15 @@
+Q02 - FIBONACCI
+---------------
+
+Get the number of terms from the user at runtime.
+
+Display the Fibonacci series for the given number of terms.
+
+Example:
+
+Input:
+Enter number of terms: 7
+
+Output:
+Fibonacci Series:
+0 1 1 2 3 5 8

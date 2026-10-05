@@ -1,0 +1,21 @@
+Q04 - PALINDROME
+----------------
+
+Get a number from the user at runtime.
+
+Reverse the number and check whether the original number
+and reversed number are the same.
+
+If same:
+Palindrome Number
+
+Otherwise:
+Not a Palindrome Number
+
+Example:
+
+Input:
+Enter a number: 121
+
+Output:
+121 is a Palindrome Number

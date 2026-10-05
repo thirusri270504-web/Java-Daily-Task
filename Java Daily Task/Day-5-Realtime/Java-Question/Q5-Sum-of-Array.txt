@@ -1,0 +1,28 @@
+Q05 - SUM OF ARRAY
+------------------
+
+Get the size of the array from the user at runtime.
+
+Get all array elements from the user.
+
+Calculate the sum of all array elements.
+
+Display the array and total sum.
+
+Example:
+
+Input:
+Enter array size: 5
+
+Enter array elements:
+10
+20
+30
+40
+50
+
+Output:
+Array elements:
+10 20 30 40 50
+
+Sum of array = 150

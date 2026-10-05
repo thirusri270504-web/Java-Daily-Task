@@ -1,0 +1,14 @@
+Q03 - REVERSE NUMBER
+--------------------
+
+Get a number from the user at runtime.
+
+Reverse the given number and display the result.
+
+Example:
+
+Input:
+Enter a number: 12345
+
+Output:
+Reverse number = 54321

@@ -8,6 +8,7 @@ public class Q1_removefirstnumber {
 
         System.out.print("Enter array size: ");
         int size = sc.nextInt();
+          
 
         int[] array = new int[size];
 

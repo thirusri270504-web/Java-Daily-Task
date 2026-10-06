@@ -1,0 +1,27 @@
+Q05 - REMOVE FIRST DUPLICATE VALUE
+----------------------------------
+
+Get the array size from the user at runtime.
+
+Get the array elements from the user.
+
+Find the first value that occurs more than once.
+
+Remove only the first occurrence of that duplicate value.
+
+Display the updated array.
+
+Example:
+
+Input:
+Enter array size: 7
+
+Enter array elements:
+10 20 30 20 40 50 30
+
+Output:
+
+First duplicate value: 20
+
+Array after removing first duplicate:
+10 30 20 40 50 30

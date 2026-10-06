@@ -1,0 +1,22 @@
+Q02 - REMOVE DUPLICATE VALUE
+----------------------------
+
+Get the array size from the user at runtime.
+
+Get the array elements from the user.
+
+Remove all duplicate values from the array.
+
+Display only unique values.
+
+Example:
+
+Input:
+Enter array size: 7
+
+Enter array elements:
+10 20 10 30 20 40 30
+
+Output:
+Array after removing duplicates:
+10 20 30 40

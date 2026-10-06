@@ -1,0 +1,22 @@
+Q04 - DESCENDING ORDER
+----------------------
+
+Get the array size from the user at runtime.
+
+Get the array elements from the user.
+
+Arrange the array elements in descending order.
+
+Display the sorted array.
+
+Example:
+
+Input:
+Enter array size: 5
+
+Enter array elements:
+10 50 20 40 30
+
+Output:
+Descending Order:
+50 40 30 20 10

@@ -1,0 +1,22 @@
+Q01 - REMOVE FIRST NUMBER
+-------------------------
+
+Get the array size from the user at runtime.
+
+Get the array elements from the user.
+
+Remove the first element from the array.
+
+Display the array after removing the first element.
+
+Example:
+
+Input:
+Enter array size: 5
+
+Enter array elements:
+10 20 30 40 50
+
+Output:
+Array after removing first number:
+20 30 40 50

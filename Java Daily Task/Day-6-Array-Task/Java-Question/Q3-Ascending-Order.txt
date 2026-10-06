@@ -1,0 +1,22 @@
+Q03 - ASCENDING ORDER
+---------------------
+
+Get the array size from the user at runtime.
+
+Get the array elements from the user.
+
+Arrange the array elements in ascending order.
+
+Display the sorted array.
+
+Example:
+
+Input:
+Enter array size: 5
+
+Enter array elements:
+50 20 40 10 30
+
+Output:
+Ascending Order:
+10 20 30 40 50

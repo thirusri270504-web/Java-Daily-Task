@@ -1,0 +1,16 @@
+
+Q10 - COMMON ELEMENTS
+---------------------
+Get two integer arrays from the user.
+
+Find the elements that are present in both arrays.
+Display each common value only once.
+
+Example:
+Array 1: 10 20 30 40
+Array 2: 20 30 50 60
+
+Output:
+Common Elements:
+20
+30

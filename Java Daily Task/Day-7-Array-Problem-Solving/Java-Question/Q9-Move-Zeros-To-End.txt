@@ -1,0 +1,13 @@
+
+Q09 - MOVE ZEROS TO END
+-----------------------
+Get an integer array from the user.
+
+Move all zeros to the end while maintaining
+the original order of non-zero elements.
+
+Example:
+Array: 0 10 0 20 30 0 40
+
+Output:
+10 20 30 40 0 0 0

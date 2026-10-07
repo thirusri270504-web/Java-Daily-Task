@@ -1,0 +1,14 @@
+
+Q03 - COUNT FREQUENCY
+---------------------
+Get an integer array from the user.
+
+Get a search element and count how many times
+it appears in the array.
+
+Example:
+Array: 10 20 10 30 10 40
+Search Element: 10
+
+Output:
+Frequency: 3

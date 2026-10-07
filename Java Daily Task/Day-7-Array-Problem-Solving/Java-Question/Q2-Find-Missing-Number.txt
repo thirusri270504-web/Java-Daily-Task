@@ -1,0 +1,13 @@
+
+Q02 - FIND MISSING NUMBER
+-------------------------
+Get an array containing numbers from 1 to N,
+with exactly one number missing.
+
+Find and display the missing number.
+
+Example:
+Array: 1 2 3 5
+
+Output:
+Missing Number: 4

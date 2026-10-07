@@ -1,0 +1,12 @@
+
+Q04 - SECOND LARGEST ELEMENT
+----------------------------
+Get an integer array from the user.
+
+Find the second largest DISTINCT element.
+
+Example:
+Array: 10 45 20 67 30
+
+Output:
+Second Largest: 45

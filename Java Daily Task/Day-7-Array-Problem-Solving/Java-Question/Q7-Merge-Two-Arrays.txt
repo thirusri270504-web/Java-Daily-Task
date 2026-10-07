@@ -1,0 +1,14 @@
+
+Q07 - MERGE TWO ARRAYS
+----------------------
+Get two integer arrays from the user.
+
+Merge both arrays into one array.
+
+Example:
+Array 1: 10 20 30
+Array 2: 40 50 60
+
+Output:
+Merged Array:
+10 20 30 40 50 60

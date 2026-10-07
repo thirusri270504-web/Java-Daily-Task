@@ -1,0 +1,17 @@
+
+JAVA DAILY TASKS
+DAY 07 - ARRAYS PROBLEM SOLVING
+
+Q01 - FIND DUPLICATE ELEMENT
+----------------------------
+Get an integer array from the user at runtime.
+
+Find and display all duplicate elements only once.
+
+Example:
+Array: 10 20 30 20 40 10
+
+Output:
+Duplicate Elements:
+10
+20

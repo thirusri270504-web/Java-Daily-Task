@@ -1,0 +1,13 @@
+
+Q08 - SORT ARRAY
+----------------
+Get an integer array from the user.
+
+Sort the elements in ascending order.
+
+Example:
+Original Array: 50 20 40 10 30
+
+Output:
+Sorted Array:
+10 20 30 40 50

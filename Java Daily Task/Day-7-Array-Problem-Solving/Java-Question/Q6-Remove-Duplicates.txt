@@ -1,0 +1,12 @@
+
+Q05 - SECOND SMALLEST ELEMENT
+-----------------------------
+Get an integer array from the user.
+
+Find the second smallest DISTINCT element.
+
+Example:
+Array: 10 45 20 67 30
+
+Output:
+Second Smallest: 20

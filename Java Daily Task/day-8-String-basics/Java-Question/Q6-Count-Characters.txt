@@ -1,0 +1,1 @@
+Write a Java program to count characters in a string excluding spaces.

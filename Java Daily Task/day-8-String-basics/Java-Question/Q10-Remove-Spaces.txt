@@ -1,0 +1,1 @@
+Write a Java program to remove all spaces from a given string.

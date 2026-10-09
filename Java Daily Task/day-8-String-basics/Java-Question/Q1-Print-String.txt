@@ -1,0 +1,1 @@
+Write a Java program to read a string and print the given string.

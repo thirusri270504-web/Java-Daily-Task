@@ -1,0 +1,9 @@
+Q10. Reverse Each Word
+
+Write a Java program to reverse each word in a given sentence without changing the word order.
+
+Input:
+Enter a sentence: Java is easy
+
+Output:
+Reversed words: avaJ si ysae

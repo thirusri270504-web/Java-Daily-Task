@@ -1,0 +1,9 @@
+Q02. Count Digits
+
+Write a Java program to count the number of digits present in a given string.
+
+Input:
+Enter a string: Java123
+
+Output:
+Number of digits: 3

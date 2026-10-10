@@ -1,0 +1,9 @@
+Q08. Find Duplicate Characters
+
+Write a Java program to find the duplicate characters in a given string.
+
+Input:
+Enter a string: programming
+
+Output:
+Duplicate characters: r, g, m

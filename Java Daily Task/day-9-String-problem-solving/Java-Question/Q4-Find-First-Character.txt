@@ -1,0 +1,9 @@
+Q04. Find First Character
+
+Write a Java program to find and print the first character of a given string.
+
+Input:
+Enter a string: Programming
+
+Output:
+First character: P

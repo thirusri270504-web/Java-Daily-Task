@@ -1,0 +1,9 @@
+Q03. Count Words
+
+Write a Java program to count the number of words in a given sentence.
+
+Input:
+Enter a sentence: Java is easy to learn
+
+Output:
+Number of words: 5

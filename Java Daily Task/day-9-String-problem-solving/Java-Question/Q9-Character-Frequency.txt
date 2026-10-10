@@ -1,0 +1,10 @@
+Q09. Find Frequency of a Character
+
+Write a Java program to find the frequency of a given character in a string.
+
+Input:
+Enter a string: programming
+Enter a character: g
+
+Output:
+Frequency of g: 2

@@ -1,0 +1,10 @@
+Q01. Count Vowels and Consonants
+
+Write a Java program to count the number of vowels and consonants in a given string.
+
+Input:
+Enter a string: Hello World
+
+Output:
+Vowels: 3
+Consonants: 7

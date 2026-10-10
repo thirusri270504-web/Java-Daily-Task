@@ -1,0 +1,9 @@
+Q05. Find Last Character
+
+Write a Java program to find and print the last character of a given string.
+
+Input:
+Enter a string: Programming
+
+Output:
+Last character: g

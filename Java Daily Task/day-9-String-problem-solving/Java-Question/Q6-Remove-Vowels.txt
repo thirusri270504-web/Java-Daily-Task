@@ -1,0 +1,9 @@
+Q06. Remove Vowels
+
+Write a Java program to remove all vowels from a given string.
+
+Input:
+Enter a string: Hello World
+
+Output:
+String without vowels: Hll Wrld

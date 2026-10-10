@@ -1,0 +1,10 @@
+Q07. Check Anagram
+
+Write a Java program to check whether two strings are anagrams of each other.
+
+Input:
+Enter first string: listen
+Enter second string: silent
+
+Output:
+The strings are anagrams.

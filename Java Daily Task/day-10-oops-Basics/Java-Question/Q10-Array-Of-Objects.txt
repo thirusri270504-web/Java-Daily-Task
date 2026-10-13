@@ -1,0 +1,24 @@
+Q10 - ARRAY OF OBJECTS
+----------------------
+Create a Student class with:
+
+name
+mark
+
+Create an array of Student objects.
+
+Store details of three students and display all student details.
+
+Example:
+
+Student 1:
+Name: Arun
+Mark: 85
+
+Student 2:
+Name: Kumar
+Mark: 90
+
+Student 3:
+Name: Ravi
+Mark: 78

@@ -1,0 +1,9 @@
+Q07 - STATIC COUNTER
+--------------------
+Create a Student class with a static variable:
+
+studentCount
+
+Every time a Student object is created, increase the student count.
+
+Create three Student objects and display the total number of students.

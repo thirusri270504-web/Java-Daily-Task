@@ -1,0 +1,14 @@
+Q01 - STUDENT CLASS AND OBJECT
+------------------------------
+Create a Student class with the following properties:
+
+name
+age
+mark
+
+Create an object of the Student class and display all the details.
+
+Example:
+Name: Praveen
+Age: 21
+Mark: 85

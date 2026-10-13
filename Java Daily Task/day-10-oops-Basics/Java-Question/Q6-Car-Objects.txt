@@ -1,0 +1,9 @@
+Q06 - CAR OBJECTS
+-----------------
+Create a Car class with:
+
+brand
+model
+price
+
+Create two Car objects and display the details of both cars.

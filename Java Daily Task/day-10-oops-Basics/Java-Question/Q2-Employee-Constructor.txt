@@ -1,0 +1,14 @@
+Q02 - EMPLOYEE CONSTRUCTOR
+--------------------------
+Create an Employee class with:
+
+name
+salary
+
+Create a constructor to initialize the employee details.
+
+Create an object and display the employee details.
+
+Example:
+Name: Arun
+Salary: Rs.30000

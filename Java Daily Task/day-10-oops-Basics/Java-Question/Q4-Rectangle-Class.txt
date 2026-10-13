@@ -1,0 +1,17 @@
+Q04 - RECTANGLE CLASS
+---------------------
+Create a Rectangle class with:
+
+length
+width
+
+Create methods to calculate:
+
+Area
+Perimeter
+
+Formula:
+
+Area = length × width
+
+Perimeter = 2 × (length + width)

@@ -1,0 +1,11 @@
+Q03 - BOOK USING THIS KEYWORD
+-----------------------------
+Create a Book class with:
+
+title
+author
+price
+
+Use the this keyword inside the constructor to initialize the values.
+
+Display the book details.

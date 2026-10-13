@@ -1,0 +1,15 @@
+Q05 - BANK ACCOUNT ENCAPSULATION
+--------------------------------
+Create a BankAccount class with a private variable:
+
+balance
+
+Create methods:
+
+deposit()
+withdraw()
+displayBalance()
+
+Use encapsulation to protect the balance variable.
+
+Test the account using an object.

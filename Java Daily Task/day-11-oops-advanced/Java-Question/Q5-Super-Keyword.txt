@@ -1,0 +1,13 @@
+Q05 - SUPER KEYWORD
+--------------------
+Create a parent class Vehicle with:
+
+brand
+
+Create a child class Car with:
+
+model
+
+Use the super keyword to access the parent class variable.
+
+Display both brand and model.

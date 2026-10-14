@@ -1,0 +1,9 @@
+Q08 - INTERFACE
+---------------
+Create an interface Printable with:
+
+void print()
+
+Create a class Document that implements Printable.
+
+Implement the print() method and display a message.

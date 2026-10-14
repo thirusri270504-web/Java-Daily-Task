@@ -1,0 +1,11 @@
+Q04 - METHOD OVERRIDING
+-----------------------
+Create a parent class Animal with:
+
+sound()
+
+Create a child class Dog that overrides:
+
+sound()
+
+Display different sounds from the parent and child classes.

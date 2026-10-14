@@ -1,0 +1,17 @@
+
+Q09 - MULTIPLE INTERFACES
+-------------------------
+Create two interfaces:
+
+Camera
+MusicPlayer
+
+Camera should contain:
+takePhoto()
+
+MusicPlayer should contain:
+playMusic()
+
+Create a class Smartphone that implements both interfaces.
+
+Implement both methods and call them using a Smartphone object.

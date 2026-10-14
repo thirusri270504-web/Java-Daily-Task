@@ -1,0 +1,16 @@
+Q10 - POLYMORPHISM
+------------------
+Create a parent class Animal with:
+
+sound()
+
+Create two child classes:
+
+Dog
+Cat
+
+Override sound() in both classes.
+
+Use a parent class reference to call the child methods.
+
+Display the different sounds.

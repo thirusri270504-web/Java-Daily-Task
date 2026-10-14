@@ -1,0 +1,18 @@
+Q03 - HIERARCHICAL INHERITANCE
+------------------------------
+Create a parent class Vehicle with:
+
+start()
+
+Create two child classes:
+
+Car
+Bike
+
+Car should have:
+drive()
+
+Bike should have:
+ride()
+
+Create objects for both classes and call their methods.

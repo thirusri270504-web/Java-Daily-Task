@@ -1,0 +1,18 @@
+Q02 - MULTILEVEL INHERITANCE
+----------------------------
+Create three classes:
+
+Animal
+Dog
+Puppy
+
+Animal should have:
+eat()
+
+Dog should have:
+bark()
+
+Puppy should have:
+play()
+
+Create a Puppy object and call all three methods.

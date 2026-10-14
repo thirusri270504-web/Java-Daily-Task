@@ -1,0 +1,9 @@
+Q06 - ABSTRACT CLASS
+--------------------
+Create an abstract class Shape with:
+
+abstract void draw()
+
+Create a child class Circle that implements draw().
+
+Create a Circle object and call draw().

@@ -1,0 +1,11 @@
+Q07 - ABSTRACT METHOD
+---------------------
+Create an abstract class Employee with:
+
+abstract void calculateSalary()
+
+Create a child class Developer.
+
+Implement calculateSalary() in the Developer class.
+
+Display the calculated salary.

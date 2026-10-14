@@ -1,0 +1,13 @@
+Q01 - SINGLE INHERITANCE
+------------------------
+Create a parent class Animal with a method:
+
+eat()
+
+Create a child class Dog that inherits Animal.
+
+Add a method:
+
+bark()
+
+Create a Dog object and call both methods.

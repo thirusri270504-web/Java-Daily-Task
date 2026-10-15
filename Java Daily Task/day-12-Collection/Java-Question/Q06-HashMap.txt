@@ -1,0 +1,3 @@
+Create a HashMap containing student names and marks.
+Store 5 students and their marks.
+Display all student names and marks.

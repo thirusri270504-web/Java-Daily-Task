@@ -1,0 +1,2 @@
+Create an ArrayList of names.
+Add 5 names to the ArrayList and display all the names.

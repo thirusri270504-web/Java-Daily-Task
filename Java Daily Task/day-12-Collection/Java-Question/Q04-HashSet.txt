@@ -1,0 +1,2 @@
+Create a HashSet containing duplicate numbers.
+Display the HashSet and observe that duplicate values are removed.

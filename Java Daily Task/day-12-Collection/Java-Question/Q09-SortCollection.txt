@@ -1,0 +1,2 @@
+Create an ArrayList containing numbers.
+Sort the numbers in ascending order and display the result.

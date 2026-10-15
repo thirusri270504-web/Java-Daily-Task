@@ -1,0 +1,3 @@
+Create a LinkedList of fruits.
+Add 5 fruits to the LinkedList.
+Remove one fruit and display the remaining fruits.

@@ -1,0 +1,2 @@
+Create an ArrayList containing 5 names.
+Use Iterator to display each name.

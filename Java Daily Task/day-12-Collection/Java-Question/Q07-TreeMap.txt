@@ -1,0 +1,2 @@
+Create a TreeMap containing employee IDs and names.
+Add 5 employees and display the entries in sorted order of employee ID.

@@ -1,0 +1,2 @@
+Create an ArrayList containing duplicate numbers.
+Remove duplicate values using a collection and display the final list.

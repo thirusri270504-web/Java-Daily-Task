@@ -1,0 +1,3 @@
+Get 5 numbers from the user.
+Store the numbers in an ArrayList.
+Display the numbers and calculate their sum.

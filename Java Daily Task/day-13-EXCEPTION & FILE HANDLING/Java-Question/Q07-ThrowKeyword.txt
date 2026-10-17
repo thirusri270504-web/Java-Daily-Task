@@ -1,0 +1,5 @@
+Q07 - THROW KEYWORD
+-------------------
+Check a person's age.
+If the age is below 18, throw an IllegalArgumentException.
+Otherwise, display that the person is eligible.

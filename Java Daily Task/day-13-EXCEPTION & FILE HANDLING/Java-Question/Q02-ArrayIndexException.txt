@@ -1,0 +1,4 @@
+Q02 - ARRAY INDEX EXCEPTION
+---------------------------
+Create an integer array.
+Access an invalid array index and handle the exception.

@@ -1,0 +1,4 @@
+Q03 - NULL POINTER EXCEPTION
+----------------------------
+Create a String variable with a null value.
+Try to access its length and handle the NullPointerException.

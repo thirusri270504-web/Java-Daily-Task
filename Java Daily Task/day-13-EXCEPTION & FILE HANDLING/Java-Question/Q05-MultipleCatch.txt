@@ -1,0 +1,4 @@
+Q05 - MULTIPLE CATCH
+--------------------
+Create a program that handles ArithmeticException
+and ArrayIndexOutOfBoundsException using multiple catch blocks.

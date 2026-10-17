@@ -1,0 +1,5 @@
+Q04 - TRY-CATCH
+---------------
+Get two integers from the user.
+Divide the first number by the second number.
+Handle invalid division using try-catch.

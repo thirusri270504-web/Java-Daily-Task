@@ -1,0 +1,4 @@
+Q06 - FINALLY BLOCK
+-------------------
+Demonstrate try-catch-finally.
+Display a message from the finally block.

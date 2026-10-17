@@ -1,0 +1,5 @@
+Q10 - READ FILE
+---------------
+Create a text file, write a message into it, and read
+the message using BufferedReader.
+Display the file contents.

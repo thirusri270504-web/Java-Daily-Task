@@ -1,0 +1,1 @@
+Hello! This message is read from a file.

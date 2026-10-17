@@ -1,0 +1,5 @@
+Q08 - CUSTOM EXCEPTION
+----------------------
+Create a custom exception called InvalidAgeException.
+Throw it when a person's age is below 18.
+Handle the exception.

@@ -1,0 +1,4 @@
+Q09 - WRITE FILE
+----------------
+Write a message into a text file using FileWriter.
+Close the file safely and display a success message.

@@ -1,0 +1,7 @@
+JAVA DAILY TASKS
+DAY 13 - EXCEPTION & FILE HANDLING
+
+Q01 - ARITHMETIC EXCEPTION
+--------------------------
+Divide a number by zero.
+Handle the ArithmeticException using try-catch.

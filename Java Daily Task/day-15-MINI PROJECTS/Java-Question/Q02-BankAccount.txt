@@ -1,0 +1,6 @@
+Q02 - BANK ACCOUNT MANAGEMENT
+-----------------------------
+Create a Bank Account Management program.
+Allow the user to deposit money, withdraw money,
+and check the account balance.
+Prevent withdrawals that exceed the available balance.

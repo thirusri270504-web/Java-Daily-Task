@@ -1,0 +1,6 @@
+Q04 - NUMBER GUESSING GAME
+--------------------------
+Generate a random number between 1 and 100.
+Allow the user to guess the number.
+Display hints such as "Too high" or "Too low".
+Count the number of attempts.

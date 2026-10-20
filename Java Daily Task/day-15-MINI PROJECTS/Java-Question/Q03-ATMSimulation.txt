@@ -1,0 +1,6 @@
+Q03 - ATM SIMULATION
+--------------------
+Create a simple ATM simulation.
+Allow the user to check balance, deposit money,
+withdraw money, and exit the program.
+Use a menu-driven approach.

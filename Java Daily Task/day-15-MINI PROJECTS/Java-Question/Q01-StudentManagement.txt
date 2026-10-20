@@ -1,0 +1,9 @@
+JAVA DAILY TASKS
+DAY 15 - MINI PROJECTS
+
+Q01 - STUDENT MANAGEMENT SYSTEM
+--------------------------------
+Create a Student Management System using Java.
+Store student ID, name, and marks.
+Allow the user to add students, display all students,
+and search for a student using the ID.
